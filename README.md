@@ -6,6 +6,6 @@ The Sparks Foundation Donation Website comprising of Payment Gateway Integration
 HTML, CSS, BootStrap4
 - Back-End: 
 Flask 
-Instamojo: Payment Gateway.
+- Instamojo: Payment Gateway.
 
 - Hosting: -This Website has been deployed on "Heroku Cloud".
