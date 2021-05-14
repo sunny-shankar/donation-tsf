@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito&family=Pacifico&display=swap');
+
+body{
+    font-family: 'Nunito', sans-serif;
+}
+span.navbar-brand{
+    font-family: 'Pacifico', cursive;
+}
+.main__container {
+    min-height: 100vh;
+    /* background: linear-gradient(to bottom right,#0c0f38,#03506f); */
+    background: linear-gradient(to bottom right,#eca3f5,#fdbaf8);
+    color: white;
+}
+
+img{
+    max-width: 100%;
+    height: auto;
+}
+
+input.donate__btn,button.donate__btn{
+    background: #c67ace;
+    border: 0 none;
+    /* border-radius: 0; */
+    text-transform: uppercase;
+    color: #fff;
+}
+
+button.donate__btn:hover{
+    color: #c67ace;
+    background: #fff;
+}
+h1.main__heading{
+    color: #c67ace;
+}
+
+footer.footer__main{
+    background: linear-gradient(to bottom right,#eca3f5,#fdbaf8);
+}
+
+a,a:hover{
+   text-decoration: none; 
+   color: black;
+}
